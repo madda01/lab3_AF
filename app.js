@@ -1,1 +1,6 @@
-console.log("AF lab 3 creating a new branch")
+const fs = require('fs');
+
+fs.readFile('file.text', 'utf8', function(err,data){
+    if(err) throw err;
+    console.log(data);
+});
