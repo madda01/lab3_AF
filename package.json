@@ -1,0 +1,19 @@
+{
+  "name": "lab3_af",
+  "version": "1.0.0",
+  "description": "sample project to learn the git flow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madda01/lab3_AF.git"
+  },
+  "author": "madhumini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madda01/lab3_AF/issues"
+  },
+  "homepage": "https://github.com/madda01/lab3_AF#readme"
+}
